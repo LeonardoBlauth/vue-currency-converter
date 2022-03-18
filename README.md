@@ -1,5 +1,10 @@
 # currency-converter
 
+## Techs
+```
+Vuejs + BootstrapVue + axios
+```
+
 ## Project setup
 ```
 yarn install
